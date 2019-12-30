@@ -8,7 +8,7 @@ class Navbar extends Component {
         <nav className="blue ">
           <div className="nav-wrapper">
             <a href="/" className="brand-logo center">
-              Logo
+              Tech Meetings
             </a>
             <a
               data-target="main-menu"
